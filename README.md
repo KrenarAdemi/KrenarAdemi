@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I’m Krenar Ademi 👋
 
-<!--
-**KrenarAdemi/KrenarAdemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build things that actually *look good* and *work fast.*  
+Currently studying **Web Design & Development (DMIT)** at **NAIT**, where I mix clean UI with solid front-end code — HTML, CSS, Tailwind, JavaScript, and WordPress block themes.  
 
-Here are some ideas to get you started:
+💻 **What I’m working on:**  
+- Custom WordPress block theme (`krenars_theme`) — full-site editing, dynamic templates, and rem-based design system.   
+- My own portfolio site [krenarademi.com](https://krenarademi.com) (live on Netlify).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Current focus:** mastering responsive layouts, accessibility, and front-end polish that passes real-world rubrics — not just class demos.  
+
+⚡ **Outside code:** I’m the kind of person who’ll tweak gradients at 2 AM and still have an eye on Kosovo’s next football fixture.  
+
+📫 **Let’s connect:**  
+[LinkedIn](https://linkedin.com/in/krenar-ademi) | [Email](mailto:krenar.ademi3@gmail.com)
