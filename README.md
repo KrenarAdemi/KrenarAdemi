@@ -1,4 +1,4 @@
-## Hey, I’m Krenar Ademi 👋
+## Hey Krenar is here 👋
 
 I design and build things that actually *look good* and *work fast.*  
 Currently studying **Web Design & Development (DMIT)** at **NAIT**, where I mix clean UI with solid front-end code: HTML, CSS, Tailwind, JavaScript, and WordPress block themes.  
