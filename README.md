@@ -7,10 +7,9 @@ Currently studying Web Design & Development (DMIT) at NAIT, where I blend clean 
 
 Custom WordPress Block Theme (krenars_theme): full-site editing, rem-based system, and dynamic templates.
 
-My personal portfolio — krenarademi.com
- (live on Netlify).
+PHP projects.
 
-Maker’s Market Dashboard prototype built purely with Tailwind CLI — no JS, just smart utility logic.
+SEO website: https://pomegranate-tincture-benefits.netlify.app/
 
 🧠 Current Focus
 
