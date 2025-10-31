@@ -1,15 +1,40 @@
-## Hey, Krenar is here 👋
+👋 Hey, I’m Krenar
 
-I design and build things that actually *look good* and *work fast.*  
-Currently studying **Web Design & Development (DMIT)** at **NAIT**, where I mix clean UI with solid front-end code: HTML, CSS, Tailwind, JavaScript, and WordPress block themes.  
+I design and build web experiences that actually look good, load fast, and make sense.
+Currently studying Web Design & Development (DMIT) at NAIT, where I blend clean UI with efficient, standards-based front-end code.
 
-💻 **What I’m working on:**  
-- Custom WordPress block theme (`krenars_theme`)  full-site editing, dynamic templates, and rem-based design system.   
-- My own portfolio site [krenarademi.com](https://krenarademi.com) (live on Netlify).  
+💻 What I’m Working On
 
-🌱 **Current focus:** mastering responsive layouts, accessibility, and front-end polish that passes real-world rubrics, not just class demos.  
+Custom WordPress Block Theme (krenars_theme): full-site editing, rem-based system, and dynamic templates.
 
-⚡ **Outside code:** I’m the kind of person who’ll tweak gradients at 2 AM and still have an eye on Kosovo’s next football fixture.  
+My personal portfolio — krenarademi.com
+ (live on Netlify).
 
-📫 **Let’s connect:**  
-[LinkedIn](https://linkedin.com/in/krenar-ademi) | [Email](mailto:krenar.ademi3@gmail.com)
+Maker’s Market Dashboard prototype built purely with Tailwind CLI — no JS, just smart utility logic.
+
+🧠 Current Focus
+
+Building accessible, responsive layouts that pass real-world rubrics (not just class demos).
+
+Polishing front-end workflows using Git, Netlify, and VS Code.
+
+Leveling up in WordPress FSE, SEO, and E-E-A-T-driven content structure.
+
+🧰 Tech & Tools
+
+Languages: HTML, CSS, JavaScript, PHP
+Frameworks/Libraries: Tailwind CSS, WordPress (FSE & custom themes)
+Tools: Git, GitHub, Netlify, VS Code, Figma, Adobe XD, Photoshop
+Database: MySQL (PDO-based queries, form validation, CRUD logic)
+Other Skills: SEO optimization, content strategy, responsive UI, accessibility (WCAG), UX writing
+
+⚡ Beyond Code
+
+I’m the type who’ll tweak a gradient at 2 AM just to make it feel right,
+then switch tabs to check Kosovo’s next football fixture ⚽🇽🇰.
+
+📫 Let’s Connect
+
+LinkedIn
+
+Email
