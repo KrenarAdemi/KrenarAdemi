@@ -35,6 +35,6 @@ then switch tabs to check Kosovo’s next football fixture ⚽🇽🇰.
 
 📫 Let’s Connect
 
-LinkedIn
+LinkedIn: in/krenar-ademi-20944b253
 
-Email
+Email: krenar.ademi3@gmail.com
